@@ -1,1 +1,1 @@
-# forum_pathon_django
+# forum_python_django
